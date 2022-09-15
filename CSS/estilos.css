@@ -109,7 +109,3 @@ input::placeholder{
     background-color: rgb(126, 0, 245);
     color: rgb(228, 213, 0);
 }
-
-.input[type=submit]:active {
-    background-color: green;
-}
