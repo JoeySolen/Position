@@ -98,3 +98,18 @@ input::placeholder{
 .input-container{
     margin-top: 20px;
 }
+
+#login{
+    color: rgb(126, 0, 245);
+    padding: 9px;
+    transition: 0.2s;
+}
+
+#login:hover{
+    background-color: rgb(126, 0, 245);
+    color: rgb(228, 213, 0);
+}
+
+.input[type=submit]:active {
+    background-color: green;
+}
